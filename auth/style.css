@@ -1,0 +1,78 @@
+h1,h2,h3,h4,h5,p,ul,li,a .font-default{
+    font-family: "Montserrat", serif;
+
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Montserrat", serif;
+
+  
+}
+
+
+.card-body{
+    background-color: #03050A!important;
+}
+.card-title{
+    color: #fff!important;
+}
+.card{
+    border: 2px solid #3e3e3e!important;
+    border-radius: 10px!important;
+}
+.card:hover{
+    border: 2px solid #865a84!important;
+    cursor:pointer;
+
+}
+
+.single{
+    background-color: #121317;
+    border-radius: 7px!important;
+    padding: 10px;
+}
+.chapter{
+    background-color: #03050A;
+    border-radius: 7px!important;
+    height: 330px !important;
+    padding-top: 10px;
+}
+
+
+/* courses section */
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.course-list {
+    height: 100vh;
+    overflow-y: auto;
+    border-right: 1px solid #ddd;
+    background-color: #03050A!important;
+}
+
+.course-list .list-group-item a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+}
+
+.course-list .list-group-item a:hover {
+    color: #007BFF;
+}
+
+.course-content {
+    padding: 20px;
+}
+
+.course-content h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.bg-primary{
+    background-color: #2BBADB!important;
+}
+

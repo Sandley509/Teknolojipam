@@ -1,0 +1,57 @@
+h1,h2,h3,h4,h5,p,ul,li,a .font-default{
+    font-family: "Montserrat", serif;
+
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Montserrat", serif;
+
+}
+.text-primary{
+    color: #2BBADB!important;
+}
+.bg-default{
+    background-color: #2BBADB;
+}
+.btn-primary{
+    border-radius: 30px!important;
+    background-color: #2BBADB!important;
+    border: none !important;
+
+    
+}
+.btn-secondary{
+    background-color: rgb(249, 249, 247)!important;
+    color: black!important;
+    border: none !important;
+    border-radius: 30px!important;
+}
+
+.headText{
+    font-size: 70px;
+}
+
+.courseSection{
+    margin-top: 20px!important;
+}
+.codeSnippet{
+    border-radius: 12px;
+    border: 1px solid #5b647c;
+    height: 400px !important;
+    margin-bottom: 20px;
+
+}
+
+
+ /* Optional: Add styling for the code snippet */
+ /* pre {
+    background-color: #03050A!important;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+}
+code {
+    font-family: 'Courier New', Courier, monospace;
+    color: #333;
+} */
